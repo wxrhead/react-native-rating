@@ -1,0 +1,29 @@
+{
+  "name": "rn-ratings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxrhead/react-native-rating.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Rating"
+  ],
+  "author": "Maheep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wxrhead/react-native-rating/issues"
+  },
+  "homepage": "https://github.com/wxrhead/react-native-rating#readme",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.6"
+  }
+}
