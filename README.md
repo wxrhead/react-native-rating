@@ -22,7 +22,7 @@
 ## Rating Demo
 <br>
 <div style="flex-direction: row" align="center" >
-  <img style="border-radius : 12px" src="./resources/img/demo.png" width="200">
+  <img style="border-radius : 12px" src="./resources/img/demo.png" width="250">
 </div>
 
 <br>

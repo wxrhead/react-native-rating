@@ -80,7 +80,10 @@ const Rating = ({
               },
             ]}
           >
-            <Image source={source} style={[styles.image]} />
+            <Image
+              source={source}
+              style={[styles.image, imageStyle && imageStyle]}
+            />
           </View>
         </>
       );
