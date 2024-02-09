@@ -13,8 +13,10 @@
   },
   "keywords": [
     "React",
-    "Native",
-    "Rating"
+    "ReactNative",
+    "Rating",
+    "UIComponent",
+    "CustomRating"
   ],
   "author": "Maheep Singh",
   "license": "ISC",
