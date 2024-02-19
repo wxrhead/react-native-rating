@@ -76,7 +76,8 @@ const Rating = ({
               {
                 overflow: "hidden",
                 width:
-                  styles.image.width / returnWidthFactor(Number(fullIcons[1])),
+                  (imageStyle?.width ? imageStyle?.width : styles.image.width) /
+                  returnWidthFactor(Number(fullIcons[1])),
               },
             ]}
           >
